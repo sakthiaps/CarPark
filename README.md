@@ -1,14 +1,14 @@
 # README
-#Create Rails API only application
-#Add default format as Json
-#Remove view related gems in the gemfile
-#Added few gems for handling some format
-kaminari - pagination
-svy21 - for convert SVY21 format to latitude and longitude
-geokit-rails - Used for finding available car parks within range
-Jbuiler - Json formatter
-Create migration for storing car park information
-Added routes, controller for car parking
+Create Rails API only application
+Add default format as Json
+Remove view related gems in the gemfile
+Added few gems for handling some format, 
+kaminari - pagination, 
+svy21 - for convert SVY21 format to latitude and longitude, 
+geokit-rails - Used for finding available car parks within range, 
+Jbuiler - Json formatter, 
+Create migration for storing car park information, 
+Added routes, controller for car parking, 
 
 Rake Task:
 create a rake task for upload csv and update live car parking available lots etc
