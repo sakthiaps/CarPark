@@ -6,7 +6,7 @@ Added few gems for handling some format,
 kaminari - pagination, 
 svy21 - for convert SVY21 format to latitude and longitude, 
 geokit-rails - Used for finding available car parks within range, 
-Jbuiler - Json formatter, 
+Jbuilder - Json formatter, 
 Create migration for storing car park information, 
 Added routes, controller for car parking, 
 
